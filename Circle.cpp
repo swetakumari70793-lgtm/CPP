@@ -9,5 +9,7 @@ int main()
     d=2*r;
     c=2*3.14*r;
     a=3.14*r*r;
-    cout<<"Area - "<<a<<" Diameter - "<<d<<" Circumfarence - "<<c<<endl;
+    cout<<"Area - "<<a<<endl;
+    cout<<" Diameter - "<<d<<endl;
+    cout<<" Circumfarence - "<<c<<endl;
 }
