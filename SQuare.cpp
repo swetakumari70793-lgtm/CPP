@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int l,b;
+   int l,b;
     cout<<"Enter length : ";
     cin>>l;
     cout<<"Enter breadth : ";
@@ -16,4 +16,4 @@ int main()
         cout<<"It is not square"<<endl;
     }
     return 0;
-}
+} 
