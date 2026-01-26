@@ -1,12 +1,13 @@
 #include<iostream>
 using namespace std;
-int main()
+int main ()
 {
     int i;
-    for(i=1;i<=5;i++){
-    if(i==3)
-    break;
-    cout<<"value is : "<<i<<endl;
+    for(i=1;i<=5;i++)
+    {
+        if(i==3)
+        break;
+        cout<<" "<<i;
     }
     return 0;
 }
