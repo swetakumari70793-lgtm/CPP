@@ -5,7 +5,7 @@ int main()
     for(int i=1; i<=6; i++)
     {
         if(i==4)
-        break;
+        continue;
         cout<<i;
     }
     return 0;
